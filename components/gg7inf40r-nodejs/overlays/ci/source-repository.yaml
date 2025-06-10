@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gg7inf40r-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gg7inf40r-nodejs
